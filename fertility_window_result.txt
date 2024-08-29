@@ -1,0 +1,10 @@
+This is fertility window results 
+fertility_window_end: Mon, 19 Jun 2023 00:00:00 GMT 
+fertility_window_start: Sat, 10 Jun 2023 00:00:00 GMT 
+Success with request! 
+False 
+Checking multiple dates within the fertility window: 
+2023-06-21 does not fall within the fertility window. 
+2023-06-16 does not fall within the fertility window. 
+2023-06-17 does not fall within the fertility window. 
+2023-06-24 does not fall within the fertility window.
